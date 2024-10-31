@@ -18,4 +18,7 @@
 * Done using the 29 bit identifier field
 
 # Use external CAN controller? 
-https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP251863-External-CAN-FD-Controller-with-Integrated-Transceiver-DS20006624.pdf 
+Good controller [MCP251863](https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP251863-External-CAN-FD-Controller-with-Integrated-Transceiver-DS20006624.pdf)
+
+Library
+[acan2517fd](https://docs.arduino.cc/libraries/acan2517fd/#Releases)
